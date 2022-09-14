@@ -1,4 +1,4 @@
-val unidades = arrayOf("", "uno", "dos", "tres", "cuatro", "cinco", "seis", "siente", "ocho", "nueve")
+val unidades = arrayOf("", "uno", "dos", "tres", "cuatro", "cinco", "seis", "siete", "ocho", "nueve")
 val num11a19 = arrayOf("", "once", "doce", "trece", "catorce", "quince", "dieciséis", "diecisiente", "dieciocho", "diecinueve")
 val decenas = arrayOf("", "diez", "veinte", "treinta", "cuarenta", "cincuenta", "sesenta", "setenta", "ochenta", "noventa")
 val centenas = arrayOf("", "cien", "doscientos", "trescientos", "cuatrocientos", "quinientos", "seiscientos", "setecientos", "ochocientos", "novecientos")
